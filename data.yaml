@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['smoking']
+
+roboflow:
+  workspace: s-workspace-53i87
+  project: smoking-esifx-4is37-jedus
+  version: 1
+  license: CC BY 4.0
+  url: https://app.roboflow.com/s-workspace-53i87/smoking-esifx-4is37-jedus/1
